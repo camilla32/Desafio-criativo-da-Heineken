@@ -1,109 +1,103 @@
-# 🍺 Desafio Criativo — Plano de Estudos para Formação em Análise de Dados
+# 🚀 Desafios Criativos — Organização e Produtividade Profissional
 
 ## 📖 Sobre o Projeto
 
-Este projeto foi desenvolvido como parte de um desafio criativo do Bootcamp Heineken, com o objetivo de criar uma ferramenta simples e prática para auxiliar estudantes e profissionais em início de carreira na área de Análise de Dados.
+Este repositório reúne soluções desenvolvidas durante os desafios criativos do Bootcamp Heineken, com foco na organização, produtividade e desenvolvimento profissional.
 
-A proposta consiste em um plano de estudos estruturado, organizado em tarefas diárias, metas mensais e objetivos de desenvolvimento profissional. O material foi pensado para ajudar na construção de uma rotina consistente de aprendizado, permitindo acompanhar a evolução dos estudos de forma organizada e sustentável.
+Os projetos foram criados para atender necessidades do cotidiano de diferentes perfis profissionais, utilizando abordagens simples e práticas para melhorar a gestão de atividades, planejamento e acompanhamento de tarefas.
 
-Mais do que um cronograma, este projeto busca incentivar a disciplina, a organização e a construção contínua de competências essenciais para atuar no mercado de dados.
-
----
-
-## 🎯 Objetivos
-
-* Organizar a rotina de estudos de forma simples e prática.
-* Desenvolver hábitos de aprendizagem contínua.
-* Construir uma base sólida em Análise de Dados.
-* Incentivar a criação de projetos para portfólio.
-* Apoiar a preparação para oportunidades profissionais na área.
+O objetivo é demonstrar a capacidade de identificar problemas do dia a dia e propor soluções organizadas que contribuam para maior eficiência e melhor gestão da rotina.
 
 ---
 
-## 📚 Conteúdos Abordados
+# 🎯 Objetivos
 
-### Fundamentos de Dados
-
-* Conceitos básicos da área
-* Interpretação de informações
-* Pensamento analítico
-
-### Excel
-
-* Fórmulas
-* Tabelas
-* Filtros
-* Relatórios
-
-### SQL
-
-* Consultas básicas
-* Filtros
-* Organização de informações
-
-### Visualização de Dados
-
-* Criação de gráficos
-* Boas práticas de apresentação
-* Interpretação de indicadores
-
-### Projetos Práticos
-
-* Desenvolvimento de portfólio
-* Documentação de projetos
-* Publicação no GitHub
-
-### Desenvolvimento Profissional
-
-* Currículo
-* LinkedIn
-* Pesquisa de vagas
-* Planejamento de carreira
+* Desenvolver soluções voltadas para organização pessoal e profissional.
+* Melhorar a gestão de tarefas e prioridades.
+* Incentivar o planejamento e acompanhamento de atividades.
+* Aplicar conceitos de produtividade em cenários reais.
+* Criar ferramentas simples e acessíveis para uso cotidiano.
 
 ---
 
-## 🗓️ Estrutura do Plano
+# 📂 Projetos Desenvolvidos
 
-O plano está dividido em:
+## 📚 Plano de Estudos para Iniciantes em Análise de Dados
 
-* Tarefas diárias
-* Organização semanal
+Ferramenta criada para auxiliar estudantes e profissionais em transição de carreira a organizarem sua rotina de estudos.
+
+### Principais recursos
+
+* Planejamento semanal
 * Metas mensais
 * Checklist de qualificação
-* Planejamento de carreira
+* Organização de portfólio
+* Acompanhamento da evolução dos estudos
+
+### Benefícios
+
+* Maior disciplina
+* Melhor aproveitamento do tempo
+* Construção gradual de conhecimento
+* Preparação para oportunidades na área de dados
 
 ---
 
-## 🚀 Benefícios da Proposta
+## 💼 Lista de Tarefas para Assistente Financeiro
 
-* Maior organização dos estudos
-* Melhor acompanhamento da evolução
-* Desenvolvimento gradual de competências
-* Construção de portfólio
-* Preparação para processos seletivos
+Checklist desenvolvida para apoiar a organização da rotina diária de um profissional da área financeira.
 
----
+### Principais recursos
 
-## 💡 Aprendizados
+* Planejamento do dia
+* Controle de atividades
+* Organização de documentos
+* Acompanhamento de demandas
+* Encerramento estruturado do expediente
 
-Durante a elaboração deste desafio foi possível aplicar conceitos de organização, planejamento e desenvolvimento pessoal, transformando objetivos de carreira em ações práticas e mensuráveis.
+### Benefícios
 
-O projeto demonstra como uma boa estrutura de estudos pode contribuir para acelerar o aprendizado e aumentar a preparação para oportunidades na área de tecnologia e dados.
-
----
-
-## 🎓 Bootcamp Heineken
-
-Projeto desenvolvido como parte dos desafios do Bootcamp Heineken, com foco em aprendizado contínuo, desenvolvimento profissional e construção de carreira na área de Análise de Dados.
+* Melhor controle das tarefas
+* Redução de esquecimentos
+* Aumento da produtividade
+* Melhor acompanhamento de prazos
 
 ---
 
-## 👩‍💻 Autora
+# 🛠 Competências Desenvolvidas
+
+* Organização de Processos
+* Planejamento de Rotinas
+* Gestão de Prioridades
+* Produtividade Profissional
+* Estruturação de Checklists
+* Documentação de Projetos
+* Resolução de Problemas
+
+---
+
+# 💡 Aprendizados
+
+Durante o desenvolvimento destes desafios foi possível exercitar habilidades de análise, organização e planejamento, transformando necessidades comuns do ambiente profissional em soluções práticas e aplicáveis.
+
+Os projetos demonstram como pequenas ferramentas de organização podem gerar impactos positivos na produtividade e no gerenciamento das atividades do dia a dia.
+
+---
+
+# 🎓 Bootcamp Heineken
+
+Projetos desenvolvidos como parte dos desafios criativos do Bootcamp Heineken, com foco na aplicação prática de soluções voltadas para organização, eficiência e desenvolvimento profissional.
+
+---
+
+# 👩‍💻 Autora
 
 **Camila Silva dos Santos**
 
-Graduada em Ciências Econômicas e estudante da área de Dados, com interesse em Business Intelligence, Análise de Dados, Engenharia de Dados e Inteligência Artificial.
+Graduada em Ciências Econômicas, com interesse nas áreas de Dados, Business Intelligence, Processos, Tecnologia e Melhoria Contínua.
 
 ---
 
-⭐ Este projeto representa um guia de desenvolvimento para iniciantes que desejam construir uma carreira sólida em Análise de Dados através de organização, disciplina e aprendizado contínuo.
+⭐ Este repositório reúne iniciativas voltadas para a organização da rotina profissional e o desenvolvimento de hábitos que contribuam para maior produtividade e crescimento na carreira.
+
+ 
